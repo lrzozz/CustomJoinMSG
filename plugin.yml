@@ -1,0 +1,7 @@
+name: CustomJoinMSG
+main: ZETX\Join\Main
+api: 5.0.0
+version: 1.0.0
+author: ItsMeOzzyX
+description: "Custom Message When Player Logs Into Server"
+website: https://github.com/lrzozzys

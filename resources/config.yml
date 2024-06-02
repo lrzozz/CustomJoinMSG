@@ -1,0 +1,10 @@
+# Custom Join Message Settings
+# Made By ZET-Gen-Z
+
+###########################
+# Use § to color the Message
+# Use {player} to get the player name
+#------------(JOIN-MESSAGE)------------
+Join-Message: "§a[+] {player}"
+#------------(QUIT-MESSAGE)------------
+Quit-Message: "§c[-] {player}"
